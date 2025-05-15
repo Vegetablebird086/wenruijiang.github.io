@@ -1,14 +1,11 @@
 [en]
-title = "My blog"
+title = "Jiang Wenrui"
 weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
-[ar]
-title = "فلانة الفلانية"
-contentDir = "content/arabic" 
+[zh]
+title = "蒋文睿"
 weight = 2
-LanguageDirection = "rtl" 
-LanguageName = "AR"
-[ar.params]
-description = "أنا أعمل كمطورة ويب في شركة س"
+LanguageName = "中文"
+contentDir = "content/chinese"
