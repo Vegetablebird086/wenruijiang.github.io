@@ -1,22 +1,21 @@
 # theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "Anatole"
+name = "Wenrui personal Website"
 license = "MIT"
-licenselink = "https://github.com/lxndrblz/anatole/blob/master/LICENSE"
-description = "Anatole is a beautiful minimalist two-column hugo theme based on farbox-theme-Anatole."
-homepage = "https://github.com/lxndrblz/anatole/"
-demosite = "https://anatole-demo.netlify.app/"
+#licenselink = "https://github.com/yourusername/yourrepo/blob/master/LICENSE"
+description = "Master student in BJTU."
+homepage = "https://github.com/Vegetablebird086/wenruijiang.github.io/"
+#demosite = "https://your-website-url.com/"
 tags = ["blog", "responsive", "clean", "minimalist", "minimal", "personal", "dark"]
 features = ["blog", "seo", "responsive", "mobile", "disqus", "fontawesome", "analytics", "math"]
 min_version = "0.128.0"
 
 [author]
-  name = "Alexander Bilz"
-  homepage = "https://alexbilz.com"
+name = "Jiang Wenrui"
+homepage = "https://wenruijiang.github.io"
 
-# If porting an existing theme
+# You can keep the original section if you want to credit the original theme
 [original]
-  author = "Cai Cai"
-  homepage = "https://www.caicai.me/"
-  repo = "https://github.com/hi-caicai/farbox-theme-Anatole"
+author = "Alexander Bilz"
+homepage = "https://alexbilz.com"
+repo = "https://github.com/lxndrblz/anatole"
