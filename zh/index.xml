@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>蒋文睿</title><link>https://wenruijiang.github.io/zh/</link><description>Recent content on 蒋文睿</description><generator>Hugo -- gohugo.io</generator><language>zh</language><atom:link href="https://wenruijiang.github.io/zh/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>蒋文睿</title>
+    <link>https://wenruijiang.github.io/zh/</link>
+    <description>Recent content on 蒋文睿</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenruijiang.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://wenruijiang.github.io/zh/about/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenruijiang.github.io/zh/about/</guid>
+      
+        <description>蒋文睿的个人简介</description>
+      
+    </item>
+    
+    <item>
+      <title>联系方式</title>
+      <link>https://wenruijiang.github.io/zh/contact/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenruijiang.github.io/zh/contact/</guid>
+      
+        <description>联系页面</description>
+      
+    </item>
+    
+  </channel>
+</rss>
