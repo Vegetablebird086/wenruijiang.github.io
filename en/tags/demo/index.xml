@@ -18,16 +18,5 @@
       
     </item>
     
-    <item>
-      <title>The Figure Shortcode</title>
-      <link>https://wenruijiang.github.io/en/post/figure-shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/en/post/figure-shortcode/</guid>
-      
-        <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
-      
-    </item>
-    
   </channel>
 </rss>

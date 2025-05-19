@@ -6,7 +6,7 @@
     <description>Recent content on Jiang Wenrui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenruijiang.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenruijiang.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://wenruijiang.github.io/en/about/</link>
@@ -30,13 +30,26 @@
     </item>
     
     <item>
-      <title>Awards</title>
+      <title>Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern)</title>
+      <link>https://wenruijiang.github.io/en/post/beijing-eyeofcloud/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenruijiang.github.io/en/post/beijing-eyeofcloud/</guid>
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://wenruijiang.github.io/images/logos/eyeofcloud.png&#34; alt=&#34;company-logo&#34;&gt; &lt;!-- Put your logo under images/logos --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;duration&#34;&gt;Duration&lt;/h3&gt;
+&lt;p&gt;Dec 2022 - Mar 2023&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards &amp; Honors</title>
       <link>https://wenruijiang.github.io/en/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://wenruijiang.github.io/en/awards/</guid>
       
-        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+        <description>Academic awards, research honors, and teaching experience during university</description>
       
     </item>
     
@@ -47,7 +60,7 @@
       
       <guid>https://wenruijiang.github.io/en/certifications/</guid>
       
-        <description>Hugo Certifications</description>
+        <description>English Language Certifications by Jiang Wenrui</description>
       
     </item>
     
@@ -59,39 +72,6 @@
       <guid>https://wenruijiang.github.io/en/post/notice-shortcode/</guid>
       
         <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Redirect</title>
-      <link>https://wenruijiang.github.io/en/post/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/en/post/redirect/</guid>
-      
-        <description>Usage of redirectUrl</description>
-      
-    </item>
-    
-    <item>
-      <title>The Figure Shortcode</title>
-      <link>https://wenruijiang.github.io/en/post/figure-shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/en/post/figure-shortcode/</guid>
-      
-        <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://wenruijiang.github.io/en/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/en/archives/</guid>
-      
-        <description></description>
       
     </item>
     
@@ -125,17 +105,6 @@
       <guid>https://wenruijiang.github.io/en/post/math-typesetting/</guid>
       
         <description>A brief guide to setup KaTeX</description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://wenruijiang.github.io/en/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/en/post/emoji-support/</guid>
-      
-        <description>Guide to emoji usage in Hugo</description>
       
     </item>
     
