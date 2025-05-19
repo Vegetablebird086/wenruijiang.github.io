@@ -1,0 +1,11 @@
+[en]
+title = "Jiang Wenrui"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[zh]
+title = "蒋文睿"
+weight = 2
+LanguageName = "中文"
+contentDir = "content/chinese"
