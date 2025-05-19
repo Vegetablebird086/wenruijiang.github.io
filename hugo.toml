@@ -10,7 +10,7 @@ theme = "wenruijiang"
 title = "I'm Jiang Wenrui"
 author = "Jiang Wenrui"
 description = "Call me Leo"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/live.jpg"
 
 [markup]
 [markup.goldmark]
