@@ -1,25 +1,13 @@
 +++
-author = "Hugo Authors"
+author = "Jiang Wenrui"
 +++
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
+# Welcome to My Website
 
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
+I'm **Jiang Wenrui**, a master's student at **Beijing Jiaotong University**, China.
 
-Markdown supported, ie:
+This site showcases my academic work, personal projects, and thoughts on technology, artificial intelligence, and computer science.
 
-```
-# Welcome
+Please feel free to browse the posts, explore the portfolio, and reach out via the [Contact](/contact) page.
 
-- Hugo :rocket:
-- Hugo theme :rocket:
-
-Don't forget to check the README.md file!
-```
-
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
+Thanks for visiting!

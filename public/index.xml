@@ -6,7 +6,18 @@
     <description>Recent content on Jiang Wenrui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>Jiang Wenrui&#39;s personal introduction</description>
+      
+    </item>
+    
     <item>
       <title>Beijing Beijiufang railway tech co.ltd.</title>
       <link>http://localhost:1313/post/series-part-1/</link>
@@ -169,17 +180,6 @@
       <guid>http://localhost:1313/post/image-test/</guid>
       
         <description>Guide to Thumbnails in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
     </item>
     

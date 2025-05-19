@@ -1,10 +1,11 @@
 baseURL = "https://wenrui-jiang.github.io/"
-
-languageCode = "en"
 title = "Jiang Wenrui's Website"
-
 theme = "wenruijiang"
 
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+languageCode = "en"
 
 [params]
 title = "I'm Jiang Wenrui"
@@ -17,6 +18,18 @@ profilePicture = "images/live.jpg"
 [markup.goldmark.renderer]
 unsafe = true
 
-#[module]
-#[[module.imports]]
-#path = "github.com/Vegetablebird086/wenruijiang.github.io"
+[languages]
+
+[languages.en]
+languageName = "English"
+languageCode = "en"
+contentDir = "content/english"
+title = "Jiang Wenrui's Website"
+weight = 1
+
+[languages.zh]
+languageName = "中文"
+languageCode = "zh"
+contentDir = "content/Chienese"
+title = "蒋文睿的网站"
+weight = 2
