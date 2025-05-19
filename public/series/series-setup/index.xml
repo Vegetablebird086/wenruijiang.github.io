@@ -6,26 +6,26 @@
     <description>Recent content in Series-Setup on Jiang Wenrui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Series Part 2</title>
-      <link>http://localhost:1313/post/series-part-2/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/series-part-2/</guid>
-      
-        <description>A brief guide to how to setup series part 2</description>
-      
-    </item>
-    
-    <item>
-      <title>Series Part 1</title>
+      <title>Beijing Beijiufang railway tech co.ltd.</title>
       <link>http://localhost:1313/post/series-part-1/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/series-part-1/</guid>
       
         <description>A brief guide to how to setup series part 1</description>
+      
+    </item>
+    
+    <item>
+      <title>Beijing Jiaotong University ---- Master of Science in Computer Science</title>
+      <link>http://localhost:1313/post/series-part-2/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/series-part-2/</guid>
+      
+        <description>A brief guide to how to setup series part 2</description>
       
     </item>
     
