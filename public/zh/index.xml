@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>蒋文睿</title>
-    <link>http://localhost:1313/zh/</link>
+    <link>https://wenruijiang.github.io/zh/</link>
     <description>Recent content on 蒋文睿</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenruijiang.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我</title>
-      <link>http://localhost:1313/zh/about/</link>
+      <link>https://wenruijiang.github.io/zh/about/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh/about/</guid>
+      <guid>https://wenruijiang.github.io/zh/about/</guid>
       
         <description>蒋文睿的个人简介</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>联系方式</title>
-      <link>http://localhost:1313/zh/contact/</link>
+      <link>https://wenruijiang.github.io/zh/contact/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh/contact/</guid>
+      <guid>https://wenruijiang.github.io/zh/contact/</guid>
       
         <description>联系页面</description>
       

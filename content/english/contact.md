@@ -14,16 +14,18 @@ No.3 Shangyuancun, Haidian District, Beijing
 Beijing 100044, China
 
 **📧 Email**  
-your.email@example.com
+jiang.wenrui@outlook.com
 
 **📞 Phone (optional)**  
-+86 138-0000-0000
++86 178-5263-6053
 
 **🔗 Social Media**
-- Instagram: [@your_instagram](https://www.instagram.com/vegetablebird086/)
-- Facebook: [Your Name](https://www.facebook.com/profile.php?id=61564534020126)
-- X (formerly Twitter): [@yourx](https://x.com/yourx)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Line: your_line_id
-- Telegram: [@yourtelegram](https://t.me/yourtelegram)
-- Messenger: m.me/yourmessenger
+- Instagram: [@vegetablebird086](https://www.instagram.com/vegetablebird086/)
+- Facebook: [Wenrui Jiang](https://www.facebook.com/profile.php?id=61564534020126)
+- X (formerly Twitter): [@rui_wen79885](https://x.com/yourx)
+- LinkedIn: [Jiang Wenrui](https://www.linkedin.com/in/%E6%96%87%E7%9D%BF-%E8%92%8B)
+
+[//]: # (- Line: your_line_id)
+- Telegram: +86 17852636053
+
+[//]: # (- Messenger: m.me/yourmessenger)
